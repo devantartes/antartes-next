@@ -18,7 +18,7 @@ export default function ContactPage() {
         </div>
       </div>
       <div className="md:px-20 md:py-20 px-10 py-10 text-white bg-black pt-30! md:pt-40! text-center z-10">
-        <h1 className="text-4xl font-bold">Let&apos;s talk</h1>
+        <h1 className="text-4xl font-bold">Let&apos;s Talk</h1>
         <p className="md:w-[70%] mx-auto mt-5 mb-20">
           Not ready to start a project yet? Totally fine. This space is for
           questions, clarifications, or early conversations. If you&apos;ve got
